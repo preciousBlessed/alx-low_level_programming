@@ -1,2 +1,2 @@
-# gcc $CFILE -o c
+# gcc main.c -o c
 * runs the c file through the preprocessor and saves the result into another file.
