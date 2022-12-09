@@ -23,4 +23,5 @@
 # gcc -S $CFILE -o 100-intel.s
 * assembles the intel syntax code.
 
+# Implement code to print ot standard error in Task 101
 
