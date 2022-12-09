@@ -9,3 +9,9 @@
 
 # gcc $CFILE -o cisfun
 * compiles a file and houses result in a cisfun executable.
+
+# Implemented this in the body of Task 4 code:
+## puts("\"Programming is like building a multilingual puzzle");
+* will print "Programming is like building a multilingual print exactly to the stdout with newline.
+
+
