@@ -7,4 +7,5 @@
 # gcc -S $CFILE -o 2-main.s
 * assembles the c source code...
 
-
+# gcc $CFILE -o cisfun
+* compiles a file and houses result in a cisfun executable.
