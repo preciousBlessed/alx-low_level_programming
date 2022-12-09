@@ -20,7 +20,7 @@
 
 # Implement Task six to tell us the size of data types
 
-# gcc -S $CFILE -o 100-main.s
+# gcc -S $CFILE -o 100-intel.s
 * assembles the intel syntax code.
 
 
