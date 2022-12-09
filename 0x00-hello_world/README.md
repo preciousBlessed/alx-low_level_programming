@@ -20,7 +20,7 @@
 
 # Implement Task six to tell us the size of data types
 
-# gcc -S $CFILE -o 100-intel.s
+# gcc -S $CFILE -o 0-main.s
 * assembles the intel syntax code.
 
 # Implement code to print ot standard error in Task 101
