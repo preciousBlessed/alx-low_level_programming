@@ -15,7 +15,7 @@
 * will print "Programming is like building a multilingual print exactly to the stdout with newline.
 
 # Implemented this in the body of  Task 5:
-## printf("with proper grammar, but the outcome is a piece of art,");
+## printf("with proper grammar, but the outcome is a piece of art,\n");
 * To display the given text with a newline at the bask automatically.
 
 
