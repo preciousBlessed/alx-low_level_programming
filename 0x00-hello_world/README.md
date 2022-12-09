@@ -4,4 +4,7 @@
 # gcc -c $CFILE -o 1-main.o
 * compiles the file and sets it's extension to ".o"
 
+# gcc -S $CFILE -o 2-main.s
+* assembles the c source code...
+
 
