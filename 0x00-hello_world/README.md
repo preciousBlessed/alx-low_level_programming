@@ -16,6 +16,10 @@
 
 # Implemented this in the body of  Task 5:
 ## printf("with proper grammar, but the outcome is a piece of art,\n");
-* To display the given text with a newline at the bask automatically.
+* To display the given text with a newline at the end.
+
+# Implement Task six to tell us the size of data types
+
+
 
 
