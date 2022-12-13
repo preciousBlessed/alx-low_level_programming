@@ -4,9 +4,7 @@
 
 /**
  * main - Entry point
- * @parametern: A decimal number to investigate
- *
- * Description: Checks the polarity of a number n 
+ * 
  * Return: Always 0 (Success)
  */
 
