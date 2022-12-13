@@ -4,8 +4,10 @@
 
 /**
  * main - Entry point
+ * @parametern: A decimal number to investigate
  *
- * Return : Always 0 (Success)
+ * Description: Checks the polarity of a number n 
+ * Return: Always 0 (Success)
  */
 
 int main(void)
