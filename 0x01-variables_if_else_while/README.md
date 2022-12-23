@@ -16,4 +16,10 @@
 * The code prints all the lowercase alphabets apart from e and q
 
 ## Task 5
-* 
+* This code prints all numbers from 0  to 9
+
+## Task 6
+* This code uses putchar to print the numbers from 0 to 9: putchar(int + '0')
+
+## Task 7
+ 
