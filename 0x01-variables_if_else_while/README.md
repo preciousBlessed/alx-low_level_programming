@@ -28,7 +28,13 @@
 * This code prints the hex characters...
 
 ## Task 9
+* This code prints out all the possible combinations of one digits
+
+## Task 100
 * This code prints out all the possible unnique combinations of two digits, i, j=i+1 logic
 
-## Task 10
-* 
+## Task 101
+* This code prints out all the possible combinations of three digits, i, j=i+1, k=j+1 logic
+
+## Task 102 
+* This code ...
