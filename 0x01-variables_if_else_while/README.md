@@ -22,4 +22,10 @@
 * This code uses putchar to print the numbers from 0 to 9: putchar(int + '0')
 
 ## Task 7
- 
+* This code prints the lower case letters in reverse order
+
+## Task 8
+* This code prints the hex characters...
+
+## Task 9
+* 
