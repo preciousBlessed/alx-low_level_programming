@@ -28,4 +28,7 @@
 * This code prints the hex characters...
 
 ## Task 9
-* This code prints combinations of ints and strings" 
+* This code prints out all the possible unnique combinations of two digits, i, j=i+1 logic
+
+## Task 10
+* 
