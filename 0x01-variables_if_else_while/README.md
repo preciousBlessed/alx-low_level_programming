@@ -28,4 +28,4 @@
 * This code prints the hex characters...
 
 ## Task 9
-* 
+* This code prints combinations of ints and strings" 
