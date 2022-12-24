@@ -21,7 +21,7 @@ int main(void)
 				{
 				if (i == k && j == l)
 					continue;
-				if (k == 0 && l == 9)
+				if (k == 0 && l == 0)
 					continue;
 				if ((i * 10) + j > (k * 10) + l)
 					continue;
