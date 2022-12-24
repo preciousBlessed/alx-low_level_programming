@@ -17,12 +17,14 @@ int main(void)
 			{
 				/*Controllers*/
 				var = 0;
-				if (k == 0)
-					var = j + 1;
-				if (i > 0)
-					var = j + 1;
 				for (l = var; l < 10; l++)
 				{
+				if (i == k && j == l)
+					continue;
+				if (k == 0 && l == 9)
+					continue;
+				if ((i * 10) + j > (k * 10) + l)
+					continue;
 				putchar(i + '0');
 				putchar(j + '0');
 				putchar(' ');
