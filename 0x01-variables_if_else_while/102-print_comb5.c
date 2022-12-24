@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int i, j, k, l;
+	int i, j, k, l, var;
 
 	for (i = 0; i < 10; i++)
 	{
@@ -15,7 +15,13 @@ int main(void)
 		{
 			for (k = i; k < 10; k++)
 			{
-				for (l = j + 1; l < 10; l++)
+				/*Controllers*/
+				var = 0;
+				if (k == 0)
+					var = j + 1;
+				if (i > 0)
+					var = j + 1;
+				for (l = var; l < 10; l++)
 				{
 				putchar(i + '0');
 				putchar(j + '0');

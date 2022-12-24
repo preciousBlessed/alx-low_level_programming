@@ -37,4 +37,4 @@
 * This code prints out all the possible combinations of three digits, i, j=i+1, k=j+1 logic
 
 ## Task 102 
-* This code prints out all the possible combinations of unique two two digit numbers, i, j, k=i, l=j+1
+* This code prints out all the possible combinations of unique two two digit numbers, i, j, k=i, l=var, (var = 0 by default, var = j + 1 when k == 0 and i > 0)
