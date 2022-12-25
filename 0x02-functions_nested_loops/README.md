@@ -12,4 +12,7 @@
 * Test if a character or int is lowercase. Hint is using the range of ASCII values for these characters.
 
 ## Task 4
-* 
+* Test if a character or int is alpha; use ASCII ranges for noth upper and lower.
+
+## Task 5
+*  
