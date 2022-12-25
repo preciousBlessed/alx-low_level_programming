@@ -21,4 +21,7 @@
 * Find the absolute value of a number
 
 ## Task 7
-*    
+* Print out the last digit of a number.
+
+## Task 8
+*     
