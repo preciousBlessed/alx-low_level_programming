@@ -18,4 +18,7 @@
 * Test the sign of a number n and print a sign too
 
 ## Task 6
-*   
+* Find the absolute value of a number
+
+## Task 7
+*    
