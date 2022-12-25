@@ -15,4 +15,7 @@
 * Test if a character or int is alpha; use ASCII ranges for noth upper and lower.
 
 ## Task 5
-*  
+* Test the sign of a number n and print a sign too
+
+## Task 6
+*   
