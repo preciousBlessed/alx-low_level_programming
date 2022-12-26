@@ -27,4 +27,7 @@
 * Print out every 1440 minutes of the day in 24 hour format (Jack Bauer)
 
 ## Task 9
-*      
+* Print the timestable upto 9-times from 0
+
+## Task 10
+*       
