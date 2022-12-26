@@ -24,4 +24,7 @@
 * Print out the last digit of a number.
 
 ## Task 8
-*     
+* Print out every 1440 minutes of the day in 24 hour format (Jack Bauer)
+
+## Task 9
+*      
