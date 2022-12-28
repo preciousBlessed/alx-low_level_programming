@@ -41,4 +41,7 @@
 ## Task 101
 * Sum of some natural numbers
 
+## Task 102
+*  The Fibonacci: a = start, b = second; fib = a + b: In loop; fib = a + b, a = b, b = fib.
+
 
