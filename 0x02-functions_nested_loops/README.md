@@ -37,3 +37,8 @@
 
 ## Task 100
 * n times table for range of values of n in [0, 15)
+
+## Task 101
+* Sum of some natural numbers
+
+
