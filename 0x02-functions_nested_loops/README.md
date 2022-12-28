@@ -44,4 +44,10 @@
 ## Task 102
 *  The Fibonacci: a = start, b = second; fib = a + b: In loop; fib = a + b, a = b, b = fib.
 
+## Task 103
+* Sum of first even Fibonacci terms below 4,000,000
+
+## Task 104
+* 
+
 
