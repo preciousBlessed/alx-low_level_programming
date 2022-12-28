@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * print_times_table - Key multiplication generator
  * @n: the nth value to compute upto
@@ -8,7 +8,7 @@
  */
 void print_times_table(int n)
 {
-	int i, j, prod;
+	int i, j;
 
 	if (n >= 0 && n < 15)
 	{
@@ -16,57 +16,35 @@ void print_times_table(int n)
 	{
 		for (j = 0; j <= n; j++)
 		{
-			prod = i * j;
-			if (prod < 10 && (i * (j + 1)) < 10)
+			if ((i * j) < 10 && ((i * j) + i) < 10)
 			{
-				_putchar(prod + '0');
-				if (j == n)
-					continue;
-				_putchar(',');
-				_putchar(' ');
-				_putchar(' ');
-				_putchar(' ');
+			if (j != n)
+				printf("%d,   ", (i * j));
+			else if (j == n)
+				printf("%d\n", (i * j));
 			}
-			else if (prod < 10 && (i * (j + 1)) >= 10)
+			if ((i * j) < 10 && ((i * j) + i) >= 10)
 			{
-				_putchar(prod + '0');
-				if (j == n)
-					continue;
-				_putchar(',');
-				_putchar(' ');
-				_putchar(' ');
+				if (j != n)
+					printf("%d,  ", (i * j));
+				else if (j == n)
+					printf("%d\n", (i * j));
 			}
-			else if (prod >= 10 && prod < 100)
+			if ((i * j) >= 10 && (i * j + i) < 100)
 			{
-				_putchar((prod / 10) + '0');
-				_putchar((prod % 10) + '0');
-				if (j == n)
-					continue;
-				_putchar(',');
-				_putchar(' ');
-				_putchar(' ');
+			if (j != n)
+				printf("%d,  ", (i * j));
+			else if (j == n)
+				printf("%d\n", (i * j));
 			}
-			else if (prod < 100 && (i * (j + 1)) >= 100)
+			else if ((i * j) >= 10 && (i * j + i) >= 100)
 			{
-				_putchar((prod / 10) + '0');
-				_putchar((prod % 10) + '0');
-				if (j == n)
-					continue;
-				_putchar(',');
-				_putchar(' ');
-			}
-			else if (prod >= 100)
-			{
-				_putchar((prod / 100) + '0');
-				_putchar(((prod % 100) / 10) + '0');
-				_putchar(((prod % 100) % 10) + '0');
-				if (j == n)
-					continue;
-				_putchar(',');
-				_putchar(' ');
+				if (j != n)
+					printf("%d, ", (i * j));
+				else if (j == n)
+					printf("%d\n", (i * j));
 			}
 		}
-		_putchar('\n');
 	}
 	}
 }

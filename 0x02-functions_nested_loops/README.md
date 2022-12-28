@@ -33,4 +33,7 @@
 * Will add two integers n1 and n2
 
 ## Task 11
-* Print numbers from n to 98.       
+* Print numbers from n to 98.
+
+## Task 100
+* n times table for range of values of n in [0, 15)
