@@ -2,23 +2,22 @@
 #include <stdio.h>
 
 /**
- * natural_numbers -  Entry Point
- * @n: the integer to compute according to
- * Description: Function evaluates sum of numbers that
- * are divisible by 3 or 5 below n
- * Return: Nothing.
+ * main -  Entry Point
+ *
+ * Return: Always 0 (Success)
  */
 
-void natural_numbers(int n)
+int main(void)
 {
 	int sum = 0;
 	int i = 1;
 
-	while (i < n)
+	while (i < 1024)
 	{
 	if (i % 3 == 0 || i % 5 == 0)
 		sum += i;
 	i++;
 	}
 	printf("%d\n", sum);
+	return (0);
 }
