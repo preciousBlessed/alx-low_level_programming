@@ -48,6 +48,5 @@
 * Sum of first even Fibonacci terms below 4,000,000
 
 ## Task 104
-* 
-
+* Fibonacci upto the 98th term. We handled memery by walking in halves for large integers. 
 
