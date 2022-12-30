@@ -10,4 +10,4 @@
 * Fixed the bug to print out the right largest number!
 
 ## Task 4
-* 
+* Fixed the bug to print the required info for all years including leap years. 
