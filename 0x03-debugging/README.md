@@ -7,4 +7,7 @@
 * _Avoid the infinite loop
 
 ## Task 3
+* Fixed the bug to print out the right largest number!
+
+## Task 4
 * 
