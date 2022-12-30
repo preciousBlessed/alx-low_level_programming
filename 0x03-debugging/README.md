@@ -13,5 +13,5 @@
 * Fixed the bug to print the required info for all years including leap years. 
 * For a leap year, the condition is true when we test:
 ```
-if ( year % 4 == 0 || (year % 100 == 0 && year % 400 == 0))
+if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0)
 ```
