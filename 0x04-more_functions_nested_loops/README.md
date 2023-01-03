@@ -25,4 +25,7 @@
 * Draw a diagonal line using the '\' character n times, only and only when n > 0.
 
 ## Task 8
+* Draw a square using the "#" character.
+
+## Task 9
 *     
