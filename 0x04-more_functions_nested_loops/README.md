@@ -28,4 +28,7 @@
 * Draw a square using the "#" character.
 
 ## Task 9
+* FizzBuzz Task
+
+## Task 10
 *     
