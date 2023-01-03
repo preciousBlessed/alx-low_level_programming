@@ -22,4 +22,7 @@
 * Draw a line using the underscore character.
 
 ## Task 7
-*    
+* Draw a diagonal line using the '\' character n times, only and only when n > 0.
+
+## Task 8
+*     
