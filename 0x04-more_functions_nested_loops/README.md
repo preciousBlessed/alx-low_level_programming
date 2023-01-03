@@ -13,4 +13,7 @@
 * Print the base 10 numbers to stdout using _putchar
 
 ## Task 4
-*    
+* Print the bast 10 numbers excluding 2 and 4.
+
+## Task 5
+*   
