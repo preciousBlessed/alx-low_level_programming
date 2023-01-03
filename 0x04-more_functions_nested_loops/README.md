@@ -31,4 +31,7 @@
 * FizzBuzz Task
 
 ## Task 10
-*     
+* Draw a right angle isosceles with base == height, using the '#' character.
+
+## Task 100
+* 
