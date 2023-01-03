@@ -10,4 +10,7 @@
 * To implement a function that multiplies and returns the product of two digits.
 
 ## Task 3
-*   
+* Print the base 10 numbers to stdout using _putchar
+
+## Task 4
+*    
