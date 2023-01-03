@@ -19,4 +19,7 @@
 * Print the numbers 0 to 14 10 times.
 
 ## Task 6
+* Draw a line using the underscore character.
+
+## Task 7
 *    
