@@ -34,4 +34,7 @@
 * Draw a right angle isosceles with base == height, using the '#' character.
 
 ## Task 100
-* 
+* The heighest prime factor.
+
+## Task 101
+* Print numbers.
