@@ -7,4 +7,7 @@
 * Checks whether a character is a base 10 number. Returns 1 if true and 0 otherwise.
 
 ## Task 2
-*  
+* To implement a function that multiplies and returns the product of two digits.
+
+## Task 3
+*   
