@@ -16,4 +16,7 @@
 * Print the bast 10 numbers excluding 2 and 4.
 
 ## Task 5
-*   
+* Print the numbers 0 to 14 10 times.
+
+## Task 6
+*    
