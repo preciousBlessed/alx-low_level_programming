@@ -37,4 +37,5 @@
 * The heighest prime factor.
 
 ## Task 101
-* Print numbers.
+* Print numbers. I had help from [here](https://www.techcrashcourse.com/2016/02/c-program-to-print-long-variable-using-putchar-only.html)
+* I modified their style to achieve the desired.
