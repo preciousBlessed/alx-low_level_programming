@@ -25,4 +25,8 @@
 * Print last half of a string.
 
 ## Task 8
+* Print n elements from an array.
+
+## Task 9
+* 
 * 
