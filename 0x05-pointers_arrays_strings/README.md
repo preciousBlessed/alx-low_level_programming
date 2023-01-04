@@ -31,4 +31,9 @@
 * Implement the prototype strcpy function _strcpy _that copies the contents from src to dest.
 
 ## Task 100
+* Implement my own atoi function to parse and convert a string to an integer taking signs into account
+* I had help from [Here](https://youtu.be/2I9XO8jwZCA)
+
+# Task 101
+* 
 * 
