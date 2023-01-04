@@ -28,5 +28,7 @@
 * Print n elements from an array.
 
 ## Task 9
-* 
+* Implement the prototype strcpy function _strcpy _that copies the contents from src to dest.
+
+## Task 100
 * 
