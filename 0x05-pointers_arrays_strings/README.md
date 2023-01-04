@@ -10,4 +10,7 @@
 *  Evaluate the length of a string.
 
 ## Task 3
-* 
+* Emulate the puts function to print a string.
+
+## Task 4
+*  
