@@ -13,4 +13,7 @@
 * Emulate the puts function to print a string.
 
 ## Task 4
+* Reverse a string
+
+## Task 5
 *  
