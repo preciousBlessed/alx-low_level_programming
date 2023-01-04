@@ -7,5 +7,7 @@
 * Swap the values of two integer variables
 
 ## Task 2
-* 
+*  Evaluate the length of a string.
+
+## Task 3
 * 
