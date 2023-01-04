@@ -22,4 +22,7 @@
 * Print chars at Even indices
 
 ## Task 7
+* Print the first or last half of a string for even and odd total characters respectively.
+
+## Task 8
 * 
