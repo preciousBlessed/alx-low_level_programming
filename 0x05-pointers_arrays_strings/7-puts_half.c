@@ -3,8 +3,8 @@
 /**
  * puts_half - Prototype function to find and print half of string
  * @str: A String parameter to check and print it's half
- * Description: The function receives a string and prints
- * first half for even characters or second half for odd characters
+ * Description: The function receives a string and prints second
+ * half for odd characters
  * Return: Nothing.
  */
 void puts_half(char *str)
@@ -27,10 +27,10 @@ void puts_half(char *str)
 			mid++;
 		}
 	}
-	start = 0;
 	if (count % 2 != 0)
 	{
-		while (start < (count / 2))
+		start = (count + 1) / 2;
+		while (start < count)
 		{
 			_putchar(str[start]);
 			start++;
