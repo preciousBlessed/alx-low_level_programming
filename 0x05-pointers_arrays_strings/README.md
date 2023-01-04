@@ -19,4 +19,7 @@
 * Reverse a string
 
 ## Task 6
-*   
+* Print chars at Even indices
+
+## Task 7
+* 
